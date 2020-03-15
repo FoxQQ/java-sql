@@ -25,7 +25,8 @@ usage: app
  
  -pw,--password <arg>   (required) user password, special characters like
                         ! don't need to be escaped with '!', without tics
-                        esapce
+                        escape
+ 
  -q,--sql <arg>         (required) SQL Query
  
  -s,--silent            (optional) results not printed to stdout
